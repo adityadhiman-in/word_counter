@@ -33,16 +33,16 @@ body,html{
     gap: 5rem;
 }
 #textContainer{
-    width: 80%;
+    width: 60%;
     padding: 2rem;
     font-size: 2rem;
     border: none;
     border-radius: .5rem;
 }
 .container h1{
-    font-size: 5rem;
+    font-size: 3rem;
     font-weight: 600;
 }
 .container p{
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
